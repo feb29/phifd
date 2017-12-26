@@ -1,0 +1,15 @@
+[package]
+name    = "phifd"
+version = "0.1.0"
+authors = ["Kohei Watanabe <xbeef29@gmail.com>"]
+readme  = "README.md"
+license = "Unlicense/MIT"
+repository  = "https://github.com/feb29/phifd"
+keywords    = ["failure", "detector"]
+# categories  = []
+description = """
+φ (phi) accrual failure detector
+"""
+
+[dev-dependencies]
+rand = "*"
